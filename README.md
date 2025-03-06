@@ -45,7 +45,7 @@ This is a simple Node.js application using Express.js. It serves static files an
 ## Installation
 1. Clone the repository:
    \`\`\`
-git clone https://github.com/yourusername/node-app.git
+git clone https://github.com/akhileshchary/node-app.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`
